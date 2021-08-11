@@ -1,0 +1,20 @@
+div{
+    background-color:white
+}
+Button{
+    height: 300px;
+    width: 40px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 0 0 10px black;
+
+}
+:hover{
+    color: black;
+    border-radius: 20px;
+}
+h2{
+    border: solid;
+    background-color: black;
+    color: blanchedalmond;
+}
